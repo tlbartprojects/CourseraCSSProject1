@@ -1,0 +1,33 @@
+/*CSS Style sheet created by Tamara Buck 05.22.2021*/
+/*Instructions for Stylesheet for Ultimate Frisbee site*/
+/*
+header - add a background color
+headings h1 & h2, change the font color, to be different from background color
+headings (h1 & h2) to be displayed in capital letters
+h1 heading - center the text
+section should have a different background color from other elements
+change background color and font color for links
+center text for links
+remove the images without changing the html
+*/
+header{
+	background-color: #4287f5;
+}
+h1, h2{
+	color: #4d052a;
+	text-transform: uppercase;
+}
+h1{
+	text-align: center;
+}
+section{
+	background: #b1b2c7;
+}
+nav{
+		background-color: #dfdff0;	
+		color: #070817;
+		text-align: center;
+}
+img{
+	display: none;
+}
